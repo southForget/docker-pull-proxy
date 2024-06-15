@@ -28,5 +28,3 @@ jobs:
       run: |
         docker login -u $ALIYUN_REGISTRY_USER -p $ALIYUN_REGISTRY_PASSWORD $REGISTRY
         sh pull.sh
-        cat trigger.txt
-        curl -d '@trigger.txt' $MM_NOTIFY_URL
