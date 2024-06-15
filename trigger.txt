@@ -1,1 +1,1 @@
-ollama/ollama:latest
+ollama/ollama:latest registry.cn-hangzhou.aliyuncs.com/ollama/ollama:latest
