@@ -2,3 +2,15 @@ ollama/ollama:latest registry.cn-hangzhou.aliyuncs.com/sakkaku/ollama:latest
 milvusdb/milvus:v2.2.8 registry.cn-hangzhou.aliyuncs.com/sakkaku/milvus:v2.2.8
 minio/minio:RELEASE.2023-03-20T20-16-18Z registry.cn-hangzhou.aliyuncs.com/sakkaku/minio:RELEASE.2023-03-20T20-16-18Z
 quay.io/coreos/etcd:v3.5.5 registry.cn-hangzhou.aliyuncs.com/sakkaku/etcd:v3.5.5
+jenkins/jenkins:2.440.1 registry.cn-hangzhou.aliyuncs.com/sakkaku/jenkins:2.440.1
+goharbor/harbor-core:v2.10.2 registry.cn-hangzhou.aliyuncs.com/sakkaku/
+gitlab/gitlab-ce:15.11.3-ce.0 registry.cn-hangzhou.aliyuncs.com/sakkaku/gitlab-ce:15.11.3-ce.0
+redis:latest registry.cn-hangzhou.aliyuncs.com/sakkaku/redis:latest
+rabbitmq:3.8.3-management registry.cn-hangzhou.aliyuncs.com/sakkaku/rabbitmq:3.8.3-management
+mysql:8.0.33 registry.cn-hangzhou.aliyuncs.com/sakkaku/mysql:8.0.33
+docker.io/library/elasticsearch:7.17.6 registry.cn-hangzhou.aliyuncs.com/sakkaku/elasticsearch:7.17.6
+wurstmeister/kafka:latest registry.cn-hangzhou.aliyuncs.com/sakkaku/kafka:latest
+sonatype/nexus3:3.53.0 registry.cn-hangzhou.aliyuncs.com/sakkaku/nexus3:3.53.0
+zookeeper:3.4.13 registry.cn-hangzhou.aliyuncs.com/sakkaku/zookeeper:3.4.13
+clickhouse/clickhouse-server:23.12.2.59 registry.cn-hangzhou.aliyuncs.com/sakkaku/clickhouse-server:23.12.2.59
+easysoft/zentao:18.3 registry.cn-hangzhou.aliyuncs.com/sakkaku/zentao:18.3
